@@ -1,0 +1,6 @@
+@SecureAppServiceDemo_HostAddress = http://localhost:5041
+
+GET {{SecureAppServiceDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
