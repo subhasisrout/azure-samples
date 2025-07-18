@@ -1,3 +1,4 @@
+```
 For publishing Function App (Python) using basic Auth
 
 1.
@@ -28,3 +29,4 @@ Invoke-RestMethod `
   -Body $zipContent `
   -Headers $headers `
   -ContentType "application/zip"
+```
